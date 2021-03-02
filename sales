@@ -1,0 +1,15 @@
+{
+"products":[{
+  "id": 1,
+  "name": ["Computer","Handphone","Tree"],
+  "value":[1000,2000,3000]: 
+}, {
+  "id": 2,
+  "name": ["Computer","Tablet","Iphone"],
+  "value":[2000,3000,4000]: 
+}, {
+  "id": 3,
+  "name": ["TV","Handphone","Antena"],
+  "value":[1000,4000,6000]: 
+}] 
+}
